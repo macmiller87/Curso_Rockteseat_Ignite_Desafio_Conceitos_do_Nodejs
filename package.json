@@ -2,7 +2,7 @@
   "name": "curso_rockteseat_ignite_desafio_conceitos_do_nodejs",
   "version": "1.0.0",
   "description": "Este repositório contem o desafio do curso da rocketseat Ignite Conceitos do Nodejs",
-  "main": "server.js",
+  "main": "src/server.js",
   "scripts": {
     "dev": "nodemon src/server.js",
     "test": "jest"
