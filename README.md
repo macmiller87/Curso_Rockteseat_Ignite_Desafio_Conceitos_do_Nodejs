@@ -4,6 +4,7 @@
 - O usúario também pode craiar a sua lista de tarefas TODO, também é possível alterar o title, deadline e o status da tarefa para true.
 - o usúario também pode deletar o TODO, criar mais TODOS e etc.
 
+## [Desafio 1 Módulo Chapter 1: Conceitos do Nodejs](https://www.notion.so/Desafio-01-Conceitos-do-Node-js-59ccb235aecd43a6a06bf09a24e7ede8)
 ## Ferramentas 
 
 - Foi utilizado o Nodejs/javascript como linguagem para desenvolver o Backend.
@@ -18,9 +19,6 @@
 - [x] Deve ser possível Atualizar os dados da lista de tarefas criada, (name) e (username) que possua o mesmo ID. 
 - [x] Deve ser possível Atualizar os dados da lista de tarefas criada, o status (done) que possuir o mesmo ID. 
 - [x] Deve ser possível deletar a lista de tarefas que possua o mesmo ID.
-
-
-
 ## Regras de negócio
 
 - [x] Não deve ser possível cadastrar um name e um username já existente.
@@ -28,7 +26,6 @@
 - [x] Não deve ser possível Atualizar os dados da lista de tarefas criada, (name) e (username) que possua um ID diferente . 
 - [x] Não deve ser possível Atualizar os dados da lista de tarefas criada, o status (done) que não possuir o mesmo ID.
 - [x] Não deve ser possível deletar a lista de tarefas que não possua o mesmo ID.
-
 ## Para rodar essa aplicação siga os seguintes passos:
 
 - Copie a url do repositório na aba `CODE`.
